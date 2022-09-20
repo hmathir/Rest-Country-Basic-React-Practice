@@ -1,0 +1,24 @@
+.singleCountry{
+    padding: 20px;
+    background-color: black;
+    margin: 5px;
+    border-radius: 30px;
+    color: white;
+}
+
+.flags{
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 2px;
+    margin: 5px auto;
+    width: 300px;
+    height: 200px;
+}
+
+.country-index-class{
+    text-align: start;
+    font-weight: bold;
+    color: yellowgreen;
+}
+
